@@ -11,7 +11,7 @@ export default function Index() {
                 </div>
                 <div className="xl:flex-1 px-4 xl:px-12 flex flex-col justify-center">
                     <div className="text-2xl text-blue-500 font-semibold text-center xl:text-start">RAHMATULLAYEV SARDOR</div>
-                    <div className="text-4xl font-roboto font-semibold mt-2 xl:mt-4 mb-8 px-2 xl:px-0">
+                    <div className="text-4xl font-roboto font-semibold mt-2 xl:mt-4 mb-8 px-2 xl:px-0 text-black">
                         Lorem ipsum dolor, sit amet consectetur adipisicing elit. Modi, eos.
                     </div>
                     <div className="w-full flex justify-end xl:justify-start">
@@ -22,7 +22,7 @@ export default function Index() {
                 </div>
             </div>
 
-            <div className="grid xl:grid-cols-2 gap-x-8 px-6 gap-y-4 xl:px-72 py-8 xl:py-28 text-white">
+            <div className="grid xl:grid-cols-2 gap-x-8 px-6 gap-y-4 xl:px-72 py-8 xl:py-28 bg-white text-white">
 
                 <div className="bg-blue-600 p-12 rounded-xl shadow-xl">
                     <figure className="mb-6">

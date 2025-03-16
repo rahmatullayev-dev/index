@@ -5,7 +5,7 @@ export default function Navbar() {
     const [mode, setMode] = useState(true)
 
     return (
-        <div className={`block sticky shadow bg-white top-0 z-50 md:navbar justify-between md:px-72 ${mode ? "" : "fixed w-screen h-screen xl:h-auto"}`}>
+        <div className={`block text-black sticky shadow bg-white top-0 z-50 md:navbar justify-between md:px-72 ${mode ? "" : "fixed w-screen h-screen xl:h-auto"}`}>
             <div className="navbar border-b-2 md:border-none justify-between md:w-auto">
                 <a href="/" className="font-semibold text-xl">
                     RAHMATULLAYEV
