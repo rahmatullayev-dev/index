@@ -6,7 +6,7 @@ export default function Index() {
         <div>
 
             <div className="bg-gray-50 shadow pb-16 xl:py-16 xl:flex xl:flex-row-reverse xl:px-72">
-                <div className="xl:flex-1 xl:px-16">
+                <div className="xl:flex-1 px-8 xl:px-16">
                     <img src="svg/photo-3.svg" alt="" className="w-screen" />
                 </div>
                 <div className="xl:flex-1 px-4 xl:px-12 flex flex-col justify-center">
