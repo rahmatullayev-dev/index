@@ -62,7 +62,7 @@ export default function Index() {
                 <div className="flex-1 flex flex-col justify-center">
                     <div className="text-4xl font-semibold text-blue-500 mb-6 text-center xl:text-start">QOBILYATLAR</div>
 
-                    <ul className="xl:text-lg font-normal gap-y-4 mt-2 px-8">
+                    <ul className="xl:text-lg font-normal gap-y-4 mt-2 px-8 text-black">
                         <li>
                             FRONT-END: [<br />
 
@@ -94,7 +94,7 @@ export default function Index() {
                 </div>
             </div>
 
-            <div className="xl:px-72 xl:py-24 xl:flex flex-col shadow">
+            <div className="bg-white text-black xl:px-72 xl:py-24 xl:flex flex-col shadow">
                 {/* <div className="text-center mb-8 text-4xl">Vada beramiz</div> */}
                 <div className="flex flex-col xl:flex-row mt-8 gap-x-16 gap-y-12">
 
@@ -149,7 +149,7 @@ export default function Index() {
                 </div>
                 <div className="flex-1 px-4 flex flex-col justify-center">
                     <div className="text-4xl text-blue-500 font-semibold">LOYIHALAR</div>
-                    <p className="text-lg my-4">
+                    <p className="text-lg my-4 text-black">
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur tenetur dolore, illo delectus tempore facilis animi error sed. Quos dolores, sed hic ex fuga blanditiis tempore beatae repellat quis ea.
                     </p>
                     <div className="flex justify-end xl:justify-start w-full">
@@ -158,7 +158,7 @@ export default function Index() {
                 </div>
             </div>
 
-            <div className="shadow py-8 xl:px-72 xl:flex">
+            <div className="bg-white text-black shadow py-8 xl:px-72 xl:flex">
                 <div className="flex-1 xl:px-16">
                     <img src="svg/cloud.svg" alt="" />
                 </div>
